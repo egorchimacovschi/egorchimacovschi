@@ -1,45 +1,53 @@
 <div align="center">
 
-[![](./header.svg)](https://github.com/egorchimacovschi)
+# Egor Chimacovschi
 
-**Software engineering student at Politehnica University of Bucharest (ACS)**
-C, Linux, systems and low-level programming
+**Software Engineering Student**<br>
+Politehnica University of Bucharest, Automation Control and Computers
 
-[LinkedIn](https://www.linkedin.com/in/egor-chimacovschi-18958b3b2/) · Bucharest, Romania
+[LinkedIn](https://www.linkedin.com/in/egor-chimacovschi-18958b3b2/) &nbsp;·&nbsp; [Repositories](https://github.com/egorchimacovschi?tab=repositories) &nbsp;·&nbsp; Bucharest, Romania
 
 </div>
 
-## Tech Stack
+---
 
-- **Languages:** C, Python, Java, C++, Assembly, Bash, MATLAB, JavaScript
-- **Tools:** Linux (Arch/Ubuntu), Git, GCC, Make, GDB, Valgrind, Docker
-- **Data and Web:** SQL, MongoDB, HTML/CSS
-- **Networking:** TCP/IP, subnetting, routing, SSH, DNS, DHCP
+### About
 
-## Projects
+Second-year student with a strong focus on software development and a particular interest in how software works beneath the surface. I work mostly in C and Python, and I am comfortable in Linux environments with Git, GCC and Make. My background spans object-oriented programming, data structures and algorithms, operating systems and numerical methods.
 
-| Project | Stack | Description |
-|---|---|---|
-| AI Flappy Birds | Python, NEAT, PyGame | Neural networks evolve to play Flappy Bird |
-| Urgency-Case Management | C, Data Structures | 112 emergency system for incidents, units and interventions |
-| File Indexing System | C | Keyword and prefix search, alphabetical listing, TOP-K ranking |
-| Systems Programming | C, Assembly, Make | Low-level coursework built with GCC, GDB, Valgrind |
+### Technologies
 
-## Repositories
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C, Python, Java, C++, Assembly, Bash, MATLAB, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Tools and Systems</b></td>
+    <td>Linux (Arch, Ubuntu), Git, GCC, Make, GDB, Valgrind, Docker</td>
+  </tr>
+  <tr>
+    <td><b>Data and Web</b></td>
+    <td>SQL, MongoDB, HTML/CSS</td>
+  </tr>
+  <tr>
+    <td><b>Networking</b></td>
+    <td>TCP/IP, subnetting, routing, SSH, DNS, DHCP</td>
+  </tr>
+  <tr>
+    <td><b>Foundations</b></td>
+    <td>Data Structures, Algorithms, Operating Systems, Machine Learning, Linear Algebra</td>
+  </tr>
+</table>
 
-[C](https://github.com/egorchimacovschi/C) · [Python](https://github.com/egorchimacovschi/Python) · [C++](https://github.com/egorchimacovschi/Cpp) · [Assembly](https://github.com/egorchimacovschi/Assembly) · [Data Structures and Algorithms](https://github.com/egorchimacovschi/Data_Structures_and_Algorithms) · [HTML/CSS](https://github.com/egorchimacovschi/HTML_CSS)
+### Repositories
 
-## Statistics
+[C](https://github.com/egorchimacovschi/C) &nbsp;·&nbsp; [Python](https://github.com/egorchimacovschi/Python) &nbsp;·&nbsp; [C++](https://github.com/egorchimacovschi/Cpp) &nbsp;·&nbsp; [Assembly](https://github.com/egorchimacovschi/Assembly) &nbsp;·&nbsp; [Data Structures and Algorithms](https://github.com/egorchimacovschi/Data_Structures_and_Algorithms) &nbsp;·&nbsp; [HTML/CSS](https://github.com/egorchimacovschi/HTML_CSS)
+
+---
 
 <div align="center">
 
-[![](./repositories.svg)](https://github.com/egorchimacovschi)
-[![](./acti_comm.svg)](https://github.com/egorchimacovschi)
-[![](./iso_calendar.svg)](https://github.com/egorchimacovschi)
-[![](./indepth.svg)](https://github.com/egorchimacovschi)
-[![](./lines-of-code.svg)](https://github.com/egorchimacovschi)
-[![](./github-habits.svg)](https://github.com/egorchimacovschi)
-[![](./achievements.svg)](https://github.com/egorchimacovschi)
-[![](./topics_icons.svg)](https://github.com/egorchimacovschi)
+![GitHub metrics](./metrics.svg)
 
 </div>
