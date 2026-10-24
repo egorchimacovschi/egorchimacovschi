@@ -51,11 +51,5 @@ Second-year student with a strong focus on software development and a particular
 [![](./header.svg)](https://github.com/egorchimacovschi)
 [![](./repositories.svg)](https://github.com/egorchimacovschi)
 [![](./acti_comm.svg)](https://github.com/egorchimacovschi)
-[![](./iso_calendar.svg)](https://github.com/egorchimacovschi)
-[![](./indepth.svg)](https://github.com/egorchimacovschi)
-[![](./lines-of-code.svg)](https://github.com/egorchimacovschi)
-[![](./github-habits.svg)](https://github.com/egorchimacovschi)
-[![](./achievements.svg)](https://github.com/egorchimacovschi)
-[![](./topics_icons.svg)](https://github.com/egorchimacovschi)
 
 </div>
