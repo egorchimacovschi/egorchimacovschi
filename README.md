@@ -40,12 +40,6 @@ Second-year student with a strong focus on software development and a particular
   </tr>
 </table>
 
-### Repositories
-
-[C](https://github.com/egorchimacovschi/C) &nbsp;·&nbsp; [Python](https://github.com/egorchimacovschi/Python) &nbsp;·&nbsp; [C++](https://github.com/egorchimacovschi/Cpp) &nbsp;·&nbsp; [Assembly](https://github.com/egorchimacovschi/Assembly) &nbsp;·&nbsp; [Data Structures and Algorithms](https://github.com/egorchimacovschi/Data_Structures_and_Algorithms) &nbsp;·&nbsp; [HTML/CSS](https://github.com/egorchimacovschi/HTML_CSS)
-
----
-
 <div align="center">
 
 [![](./header.svg)](https://github.com/egorchimacovschi)
