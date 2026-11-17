@@ -2,7 +2,7 @@
 
 # Egor Chimacovschi
 
-<img src="./portrait.svg" width="350">
+<!-- <img src="./portrait.svg" width="350"> -->
 
 **Software Engineering Student**<br>
 Politehnica University of Bucharest, Automation Control and Computers
